@@ -11,8 +11,8 @@ The primary objective of this project is to forecast the demand for preschool se
 * A comprehensive Streamlit web application with both back-end and front-end components.
 
 <p align="center">
-    <img src="demo/demo1.gif" alt="Demo Video 1" width="30%;"/>
-    <img src="demo/demo2.gif" alt="Demo Video 2" width="30%;"/>
+    <img src="demo/demo1.gif" alt="Demo Video 1" width="45%" />
+    <img src="demo/demo2.gif" alt="Demo Video 2" width="45%" />
 </p>
 
 ## Setup

@@ -20,9 +20,6 @@ The primary objective of this project is to forecast the demand for preschool se
 1. Clone this repository:
     ```bash
     git clone git@github.com:shingurding/preschool-allocation-forecast.git
-
-    # Navigate to this folder
-    cd preschool-allocation-forecast/
     ```
 
 2. Create and activate a virtual environment:
